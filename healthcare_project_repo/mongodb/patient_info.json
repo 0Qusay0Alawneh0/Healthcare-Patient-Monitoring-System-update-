@@ -1,0 +1,7 @@
+{
+  "patient_id": "P001",
+  "name": "John Doe",
+  "age": 45,
+  "gender": "Male",
+  "medical_history": ["diabetes", "hypertension"]
+}

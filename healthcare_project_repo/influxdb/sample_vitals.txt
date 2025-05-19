@@ -1,0 +1,4 @@
+measurement: vitals
+patient_id: P001
+heartbeat: 80
+blood_pressure: 120
